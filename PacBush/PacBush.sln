@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacBush", "PacBush\PacBush\PacBush.csproj", "{3760FB42-DE2E-4489-B6C5-94F2B3DAD26D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PacBushContent", "PacBush\PacBushContent\PacBushContent.contentproj", "{00BC87E7-80EE-421D-BE8F-267191918CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3760FB42-DE2E-4489-B6C5-94F2B3DAD26D}.Debug|x86.ActiveCfg = Debug|x86
+		{3760FB42-DE2E-4489-B6C5-94F2B3DAD26D}.Debug|x86.Build.0 = Debug|x86
+		{3760FB42-DE2E-4489-B6C5-94F2B3DAD26D}.Release|x86.ActiveCfg = Release|x86
+		{3760FB42-DE2E-4489-B6C5-94F2B3DAD26D}.Release|x86.Build.0 = Release|x86
+		{00BC87E7-80EE-421D-BE8F-267191918CE3}.Debug|x86.ActiveCfg = Debug|x86
+		{00BC87E7-80EE-421D-BE8F-267191918CE3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
